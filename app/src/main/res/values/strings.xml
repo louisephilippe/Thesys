@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Thesys</string>
+    <string name="version">Version 1.01302016.1.beta</string>
+    <string name="versioncode">Release Candidate 1</string>
+    <string name="dev_by">Developed by</string>
+    <string name="dev_lpod">Louise Philippe Dulay</string>
+    <string name="dev_kmad">Kristel May A. Domingo</string>
+    <string name="dev_desc">in partial fulfillment of the requirements of the Bachelor of Science in Computer Science</string>
+    <string name="email">thesysdev@aerosyx.com</string>
+    <string name="disclaimer">Thesys, the Thesys logo, and Aerosyx are trademarks and/or registered trademarks of Aerosyx Inc. All Rights Reserved. 2016</string>
+
+    <!--Replace with your own interstitial ad unit id. -->
+    <string name="interstitial_ad_unit_id">null</string>
+
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">null</string>
+
+    <string name="title_nav_recipes">Research Studies</string>
+    <string name="title_nav_category">Categories</string>
+    <string name="title_nav_favorites">Favorites</string>
+    <string name="title_nav_rate">Feedback</string>
+    <string name="title_nav_about">About</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--exit notification-->
+    <string name="press_again_exit_app">Leaving? Press again to exit</string>
+
+</resources>
